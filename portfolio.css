@@ -1,0 +1,105 @@
+body{
+	background-color: #e8eaed;
+}
+
+#header{
+	background-color: white;
+	padding: 1em;
+	text-align:center;
+	margin: auto;
+	width: 80%;
+	margin-top: 5px;
+}
+
+#buttons{
+	background-color: white;
+	padding-right: 1em;
+	padding-left: 1em;
+	overflow: hidden;
+	text-align:center;
+	width: 80%;
+	margin: auto;
+	margin-top: 5px;
+	overflow: hidden;
+}
+
+#content{
+	background-color: white;
+	padding: 1em;
+	width: 80%;
+	margin: auto;
+	margin-top: 5px;
+}
+
+#footer{
+	background-color: white;
+	padding: 1em;
+	padding-top: 5px;
+    padding-bottom: 5px;
+	text-align:center;
+	margin: auto;
+	width: 80%;
+	margin-top: 5px;
+	text-align:right;
+}
+
+#header h1{
+	font-size: 75px;
+	padding-bottom: 0px;
+	margin-bottom:0px;
+	margin-top: 25px;
+}
+
+h2{
+	padding-top: 0px;
+	margin-top:0px;
+}
+
+.button{
+	float:left;
+	width: 20%;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.button:hover{
+	background-color: #a2a6ad;
+}
+
+p{	
+	text-align: left;
+}
+
+#content h1{
+	text-align:center;
+	font-size: 50px;
+	margin-bottom:10px;
+}
+
+#content h2{
+	text-align:left;
+	font-size: 25px;
+	margin-bottom:10px;
+}
+
+li{
+	padding:1px;
+}
+
+.subtitle{
+	font-weight:bold;
+}
+
+.right{
+	float:right;
+}
+
+.subsection{
+	padding: 10px;
+	margin-left: 0.5em;
+}
+
+#contactInfo{
+	text-align: center;
+}
